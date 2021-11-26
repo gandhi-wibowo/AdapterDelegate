@@ -1,0 +1,3 @@
+rootProject.name = "Adapter Delegate"
+include ':app'
+include ':myadapterdelegate'

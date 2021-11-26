@@ -1,0 +1,3 @@
+package com.dizcoding.adapterdelegate.sample_one
+
+interface SampleOneBase
